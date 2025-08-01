@@ -1,5 +1,6 @@
 
 ![masterhead](https://github.com/Pooja-chavan7/Pooja-chavan7/blob/main/image_p.jpeg)
+
 <h1 align="center">Hi 👋, I'm Pooja Chavan</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
 
@@ -17,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/the-pooja-chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/the-pooja-chavan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/the-pooja-chavan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the-pooja-chavan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pooja-chavan7&show_icons=true&locale=en" alt="pooja-chavan7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pooja-chavan7&" alt="pooja-chavan7" /></p>
-
